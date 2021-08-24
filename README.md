@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Bijay Kumar's Portfolio
 
-You can use the [editor on GitHub](https://github.com/kumarbijay/kumarbijay.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I am a final year undergraduate at [VSSUT, Burla](https://vssut.ac.in) with a dream of giving back to the society with my learned skills. Currently experimenting with web development to know how much I have actually learned. I’m a quick and an ardent learner, always eager to grasp new technology stacks and their implementation. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is my personal portfolio website hosted at [GitHub Pages](https://pages.github.com/).
 
 ### Markdown
 
